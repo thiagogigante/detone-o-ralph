@@ -30,5 +30,3 @@ O jogo termina quando o tempo acaba ou suas vidas chegam a zero.
 ## 📷 Imagens do jogo
 ![Screenshot 1](./src/images/wall.png)
 ![Screenshot 2](./src/images/ralph.gif)
-
----
